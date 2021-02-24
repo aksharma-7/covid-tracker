@@ -1,4 +1,4 @@
-Project [Demo](https://covidtrackerapplication.netlify.app/)
+# View Project [Demo](https://covidtrackerapplication.netlify.app/)
 
 # Getting Started with Create React App
 
